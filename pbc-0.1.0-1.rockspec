@@ -2,7 +2,7 @@ package = "pbc"
 version = "0.1.0-1"
 
 source = {
-  url = "git@github.com:reasonMix/pbc.git",
+  url = "git://github.com/reasonMix/pbc.git",
   tag = "v0.1.0"
 }
 description={
