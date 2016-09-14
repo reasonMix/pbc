@@ -1,11 +1,8 @@
 package = "pbc"
-version = "0.1.0-1"
-
-local v = version:gsub("%-%d", "")
 
 source = {
-  url = "git@github.com:reasonMix/pbc.git",
-  tag = "v"..v
+  url = "https://github.com/reasonMix/pbc.git",
+  tag = "v0.1.0"
 }
 description={
    summary = 'google protocol lua binding used in cocos2d-x project',
